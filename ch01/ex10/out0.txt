@@ -1,0 +1,800 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>リクルートホールディングス - Recruit Holdings</title>
+<meta name="description" content="リクルートホールディングスの企業情報サイトです。ひとりひとりに「まだ、ここにない、出会い。」を提供していきます。" />
+<meta name="keywords" content="リクルートホールディングス,RecruitHoldings,サービス,プレスルーム,企業情報,CSR,ガバナンス,投資家情報,MeetRecruit,採用情報,リクルート" />
+<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1, minimum-scale=1, maximum-scale=3">
+<meta property="og:image" content="/common/img/ogp.png" />
+<script type="text/javascript" src="/common/js/jquery-1.7.2.min.js"></script>
+<link href="/common/css/base.css" rel="stylesheet" type="text/css" media="screen, print" />
+<link href="/common/css/module.css" rel="stylesheet" type="text/css" media="screen, print" />
+<link href="/common/css/media.css" rel="stylesheet" type="text/css" media="screen, print" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<script src="/top/js/bgfixedWindow.js" type="text/javascript" ></script>
+<script type="text/javascript" src="/js/rss.min.js"></script>
+<!-- mod / 2017.11.7 -->
+<script type="text/javascript" src="/top/js/tpickup.min.js"></script>
+<link href="/css/index.css" rel="stylesheet" type="text/css" media="screen, print" />
+<link href="/css/top_recommend.css" rel="stylesheet" type="text/css" media="screen, print" />
+<style>
+@media only screen and (max-width:959px) {
+.index_article_inner.bg278 {
+background:#323234;
+}
+}
+</style>
+<style>
+@media only screen and (max-width:959px) {
+.index_article_inner.bg276 {
+background:#DDDBCB;
+}
+}
+</style>
+<style>
+@media only screen and (max-width:959px) {
+.index_article_inner.bg273 {
+background:#183348;
+}
+}
+</style>
+<style>
+@media only screen and (max-width:959px) {
+.index_article_inner.bg270 {
+background:#183348;
+}
+}
+</style>
+<meta name="google-site-verification" content="uucQwRD2iI0q8-2QB2UkTjMnZ1L9WxyjNB8S-4mwp7Y" />
+<style>
+@media only screen and (max-width:959px) {
+.index_article_inner {
+background:#183348;
+}
+}
+</style>
+</head>
+<body>
+      <div class="bg"><img src="/img/bg.jpg" width="100%" height="100%"></div>
+<div id="header">
+<div class="section">
+<div class="logo"><a href="/">RECRUIT リクルートホールディングス</a></div>
+<div id="spMenu"><a href="#" id="button">Menu</a></div>
+<nav class="animenu">
+<ul id="globalNav">
+<li class="service"><a href="/service/">サービス</a></li>
+<li class="press"><a href="/news_data/">プレスルーム</a></li>
+<li class="company "><a href="/company/">企業情報</a></li>
+<li class="ir"><a href="/ir/">投資家情報</a></li>
+<li class="jinji"><a href="/employment/">採用情報</a></li>
+<li class="mirai"><a href="/meet_recruit/"><span>Meet Recruit</span></a></li>
+</ul><!--/globalNav-->
+<div class="assistArea">
+<div class="item_02">
+<form action="/search.html" method="get" class="search" id="SS_searchForm">
+<input type="text" class="field" size="15" name="query" value="" placeholder="Search" id="SS_searchQuery">
+<input type="submit" class="btn" value="検索" id="SS_searchSubmit">
+</form>
+</mt:EstraierMeta>
+                <dl id="fontSize" class="fontSize">
+<dt>Text size</dt>
+<dd class="small"><a href="#">A<sup>-</sup></a></dd>
+<dd class="large"><a href="#">A<sup>+</sup></a></dd>
+</dl>
+<ul class="btn_01">
+<li class="ja"><a href="http://recruit-holdings.com/" target="_blank"><span>Global site</span></a></li>
+<li class="en"><a href="/support/"><span>お問い合わせ</span></a></li>
+</ul>
+</div>
+</div>
+</nav>
+</div><!--/section-->
+</div><!--/#header-->
+<div id="serviceMenu">
+<div id="serviceMenu_title"><p>リクルートグループのサービス</p></div>
+<ul id="serviceMenuCategory" class="clearfix">
+<li class="serviceMenu01"><a href="/service/human_resources/">仕事</a></li>
+<li class="serviceMenu02"><a href="/service/business/">ビジネス支援</a></li>
+<li class="serviceMenu03"><a href="/service/education/">進学・教育</a></li>
+<li class="serviceMenu04"><a href="/service/travel/">旅行</a></li>
+<li class="serviceMenu05"><a href="/service/beauty/">美容</a></li>
+<li class="serviceMenu06"><a href="/service/housing/">住宅</a></li>
+<li class="serviceMenu07"><a href="/service/bridal/">結婚</a></li>
+<li class="serviceMenu08"><a href="/service/automobiles/">自動車</a></li>
+<li class="serviceMenu09"><a href="/service/gourmet/">グルメ</a></li>
+<li class="serviceMenu10"><a href="/service/local_life/">生活・地域情報</a></li>
+</ul>
+<div class="serviceMenubtn"><a href="/service/">一覧を見る</a></div>
+</div><!--/serviceMenu-->
+<div id="companyMenu">
+<div class="clearfix inner top">
+    <div class="companyMenuBlock"><span><a href="/company/">企業情報</a></span></div>
+    <dl class="group">
+    <dt><a href="/company/about/">リクルートグループ</a></dt>
+<dd>
+<ul>
+<li><a href="/company/about/principles/">経営理念</a></li>
+<li><a href="/company/about/structure.html">価値創造メカニズム</a></li>
+<li><a href="/company/about/involvement/">リクルートブランド</a></li>
+<li><a href="/company/about/leadership/">役員紹介</a></li>
+<li><a href="/company/about/group/">グループ企業一覧</a></li>
+<li><a href="/company/about/report_download.html">レポートダウンロード</a></li>
+</ul>
+<ul>
+<li><a href="/company/about/president.html">CEOメッセージ</a></li>
+<li><a href="/company/about/aboutSBU/">ビジネスセグメント</a></li>
+<li><a href="/company/about/data/">会社概要</a></li>
+<li><a href="/company/about/corporate_development/">沿革・歴史</a></li>
+<li><a href="/company/about/office.html">アクセス</a></li>
+</ul>
+</dl>
+<dl class="csr">
+<dt><a href="/company/csr/">サステナビリティ</a></dt>
+<dd>
+<ul>
+<li><a href="/company/csr/policy/">方針</a></li>
+<li><a href="/company/csr/challenge/">チャレンジ2015</a></li>
+<li><a href="/company/csr/voice/">社会からの声</a></li>
+<li><a href="/company/csr/sustainability/human_rights/">人権の尊重</a></li>
+<li><a href="/company/csr/sustainability/governance/management.html">CSRマネジメント</a></li>
+</ul>
+</dd>
+</dl>
+          <dl class="governance">
+               <dt><a href="/company/governance/">ガバナンス</a></dt>
+               <dd>
+                    <ul class="clearfix">
+                         <li><a href="/company/governance/governance.html">コーポレートガバナンス</a></li>
+                         <li><a href="/company/governance/compliance.html">コンプライアンス</a></li>
+                         <li><a href="/company/governance/risk_management.html">リスクマネジメント</a></li>
+                         <li><a href="/company/governance/guidelines0/">倫理綱領</a></li>
+                         <li><a href="/company/governance/intellectual_property.html">知的財産の保護</a></li>
+                    <li><a href="/company/governance/information_security.html">情報セキュリティ</a></li>
+                    </ul>
+               </dd>
+          </dl>
+</div>
+</div><!--/companyMenu-->
+<div id="irMenu">
+<div class="clearfix inner top">
+<div class="irMenuBlock"><span><a href="/ir/">投資家情報</a></span></div>
+<div class="clearfix mBottom50">
+<dl>
+<dt><a href="/ir/ir_news/">IRニュース</a></dt>
+<dd>
+<ul>
+<li><a href="/ir/ir_news/2017/">2017年</a></li>
+<li><a href="/ir/ir_news/2016/">2016年</a></li>
+<li><a href="/ir/ir_news/2015/">2015年</a></li>
+<li><a href="/ir/ir_news/2014/">2014年</a></li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dt><a href="/ir/management/">経営方針</a></dt>
+<dd>
+<ul>
+<li><a href="/ir/management/top_message.html">投資家の皆様へのメッセージ</a></li>
+<li><a href="/ir/management/managerial_policy.html">経営方針</a></li>
+<li><a href="/company/governance/governance.html">コーポレートガバナンス</a></li>
+</ul>
+</dd>
+</dl>
+<dl>
+<dt><a href="/ir/result/">財務・業績</a></dt>
+<dd>
+<ul>
+    <li><a href="/ir/result/#annual">年間</a></li>
+    <li><a href="/ir/result/#quarterly">四半期</a></li>
+<li><a href="/ir/result/forecast.html">業績予想</a></li>
+</ul>
+</dd>
+</dl>
+<dl class="times4">
+<dt><a href="/ir/library/">IRライブラリ</a></dt>
+<dd>
+<ul>
+<li><a href="/ir/library/report/">決算説明資料</a></li>
+<li><a href="/ir/library/earnings/">決算短信</a></li>
+<li><a href="/ir/library/securities/">有価証券報告書</a></li>
+<li><a href="/company/about/report_download.html">アニュアルレポート</a></li>
+</ul>
+</dd>
+</dl>
+</div><!--/clearfix-->
+<div class="clearfix">
+<dl>
+<dt><a href="/ir/financial/">株式・債券情報</a></dt>
+</dl>
+<dl>
+<dt><a href="/ir/calendar/">IRカレンダー</a></dt>
+</dl>
+<dl>
+<dt><a href="/ir/individual/">個人投資家の皆様へ</a></dt>
+</dl>
+</div><!--/clearfix-->
+</div>
+</div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="r-slider">
+<ul>
+<li>
+<div class="index_article">
+<div class="photo">
+<div class="pc">
+<img src="/meet_recruit/upload/og18_2_top.jpg" />
+</div>
+<div class="smd">
+<img src="/meet_recruit/upload/og18_2_main_common.jpg" />
+</div>
+</div><!-- /.photo -->
+    <div class="index_article_inner heightLine-top bg278">
+    <div class="article_data">
+    <div class="article_subtitle">
+    	<div class="caption2" 
+    　 	style="color:#9C9C9C;"
+>
+<img src="/meet_recruit/img/meet_light@2x.png" alt="MEEET RECRUIT"/>
+<p class="caption2__subtitle">SPECIAL INTERVIEW</p>
+</div>
+    </div>
+    <p class="caption"><a href="/meet_recruit/2017/10/og18-2.html" style="color:#ffffff;">【後編】課題解決を生む「自然なつながり」studio-L山崎亮×リクルート麻生要一</a></p>
+<p class="summary" style="color:#ffffff;">studio-Lの山崎亮氏とリクルートの麻生要一に聞いた「正しくつながる」ための方法論とは？</p>
+        <p class="read_more"><a href="/meet_recruit/2017/10/og18-2.html">記事を読む</a></p>
+</div><!-- /.article_data -->
+</div>
+</div>
+</li>
+<li>
+<div class="index_article">
+<div class="photo">
+<div class="pc">
+<img src="/meet_recruit/upload/og17-2_top.jpg" />
+</div>
+<div class="smd">
+<img src="/meet_recruit/upload/og17-2_main_common.jpg" />
+</div>
+</div><!-- /.photo -->
+    <div class="index_article_inner heightLine-top bg276">
+    <div class="article_data">
+    <div class="article_subtitle">
+    	<div class="caption2" 
+    　 	style="color:#3F5966;"
+>
+<img src="/meet_recruit/img/meet_light@2x.png" alt="MEEET RECRUIT"/>
+<p class="caption2__subtitle">SPECIAL INTERVIEW</p>
+</div>
+    </div>
+    <p class="caption"><a href="/meet_recruit/2017/09/og17-2.html" style="color:#2b3984;">【後編】新しい教育は社会に何をもたらすのか？21世紀型教育機構・石川一郎×山口文洋</a></p>
+<p class="summary" style="color:#2b3984;">21世紀型教育を研究する石川一郎氏と、スタディサプリシリーズを展開するリクルートマーケティングパートナーズ・山口文洋が考える「新しい教育は日本をどう変える？」</p>
+        <p class="read_more"><a href="/meet_recruit/2017/09/og17-2.html">記事を読む</a></p>
+</div><!-- /.article_data -->
+</div>
+</div>
+</li>
+<li>
+<div class="index_article">
+<div class="photo">
+<div class="pc">
+<img src="/meet_recruit/upload/og16_2_top.jpg" />
+</div>
+<div class="smd">
+<img src="/meet_recruit/upload/og16_2_main_common.jpg" />
+</div>
+</div><!-- /.photo -->
+    <div class="index_article_inner heightLine-top bg273">
+    <div class="article_data">
+    <div class="article_subtitle">
+    	<div class="caption2" 
+    　 	style="color:#9C9C9C;"
+>
+<img src="/meet_recruit/img/meet_light@2x.png" alt="MEEET RECRUIT"/>
+<p class="caption2__subtitle">SPECIAL INTERVIEW</p>
+</div>
+    </div>
+    <p class="caption"><a href="/meet_recruit/2017/07/og16-2.html" style="color:#FFFFFF;">【後編】地方創生のカギは「課題を提起する力」。高知大学 須藤順×博報堂 大家雅広</a></p>
+<p class="summary" style="color:#FFFFFF;">地方創生に教育現場から関わる高知大学の須藤順氏と、企業の立場で関わる博報堂の大家雅広氏に聞く「地方創生って何ですか？」</p>
+        <p class="read_more"><a href="/meet_recruit/2017/07/og16-2.html">記事を読む</a></p>
+</div><!-- /.article_data -->
+</div>
+</div>
+</li>
+<li>
+<div class="index_article">
+<div class="photo">
+<div class="pc">
+<img src="/meet_recruit/upload/og15_2_top_2.jpg" />
+</div>
+<div class="smd">
+<img src="/meet_recruit/upload/og15_2_main_common_2.jpg" />
+</div>
+</div><!-- /.photo -->
+    <div class="index_article_inner heightLine-top bg270">
+    <div class="article_data">
+    <div class="article_subtitle">
+    	<div class="caption2" 
+    　 	style="color:#9C9C9C;"
+>
+<img src="/meet_recruit/img/meet_light@2x.png" alt="MEEET RECRUIT"/>
+<p class="caption2__subtitle">SPECIAL INTERVIEW</p>
+</div>
+    </div>
+    <p class="caption"><a href="/meet_recruit/2017/04/og15-2.html" style="color:#FFFFFF;">【後編】人と社会を幸せにする&quot;いい会社&quot;って何だろう 鎌倉投信鎌田恭幸×リクルート伊藤綾</a></p>
+<p class="summary" style="color:#FFFFFF;">鎌倉投信代表取締役社長の鎌田恭幸氏とリクルートの伊藤綾が語る、人や地域を幸せにする"いい会社"とは？</p>
+        <p class="read_more"><a href="/meet_recruit/2017/04/og15-2.html">記事を読む</a></p>
+</div><!-- /.article_data -->
+</div>
+</div>
+</li>
+</ul>
+</div>
+<div id="content">
+<div class="headlineOuter">
+<div class="headlineInner">
+<h2 class="headline__heading">プレスリリース</h2>
+<div class="headlineTicker">
+<div class="headlineTicker__inner roll">
+<ul>
+<li>
+<a href="/news_data/release/2017/1122_17747.html">
+    CREATION Project 2017 167人のクリエイターと大阪の小さな工房で生まれた『つつの靴下展...
+</a>
+</li>
+<li>
+<a href="/ir/ir_news/20171114_17737.html">
+    2017年3月期 第2四半期報告書
+</a>
+</li>
+<li>
+<a href="/ir/ir_news/20171114_17736.html">
+    2018年3月期 第2四半期決算資料
+</a>
+</li>
+<li>
+<a href="/ir/ir_news/20171114_17725.html">
+    当社子会社との会社分割（吸収分割）契約締結に関するお知らせ
+</a>
+</li>
+<li>
+<a href="/news_data/release/2017/1108_17730.html">
+    リクルートグループ、17のサービス・メディアが 『Amazon Alexa』に対応
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="btn_readmore"><a href="#">もっと読む</a></div>
+<div class="headlineList">
+<ul>
+<li>
+<div class="list__date"><p>2017年11月22日</p></div>
+<div class="list__title">
+<a href="/news_data/release/2017/1122_17747.html">
+CREATION Project 2017 167人のクリエイターと大阪の小さな工房で生まれた『つつの靴下展』開催</a></div>
+</li>
+<li>
+<div class="list__date"><p>2017年11月14日</p></div>
+<div class="list__title">
+<a href="/ir/ir_news/20171114_17737.html">
+2017年3月期 第2四半期報告書</a></div>
+</li>
+<li>
+<div class="list__date"><p>2017年11月14日</p></div>
+<div class="list__title">
+<a href="/ir/ir_news/20171114_17736.html">
+2018年3月期 第2四半期決算資料</a></div>
+</li>
+<li>
+<div class="list__date"><p>2017年11月14日</p></div>
+<div class="list__title">
+<a href="/ir/ir_news/20171114_17725.html">
+当社子会社との会社分割（吸収分割）契約締結に関するお知らせ</a></div>
+</li>
+<li>
+<div class="list__date"><p>2017年11月08日</p></div>
+<div class="list__title">
+<a href="/news_data/release/2017/1108_17730.html">
+リクルートグループ、17のサービス・メディアが 『Amazon Alexa』に対応</a></div>
+</li>
+</ul>
+<div class="btn_list__more mod_button_12c">
+<a href="/news_data/">プレスルーム</a>
+</div>
+</div>
+</div>
+</div><!-- /. -->
+<div class="section">
+    <div class="col_index_01">
+    <div class="section">
+    <div class="mod_index_contents_title">
+    <p class="img"><img src="/meet_recruit/img/meetrecruit_cover_title@2x.png" alt="Meet Recruit" /></p>
+    <p class="tx">“いま”と“これから”を繋ぐメディア</p>
+    </div>
+    </div>
+<!-- top ramdom section -->
+    <!--<div class="section">
+    <div class="mod_index_contents_title">
+    <p class="img2"><img src="/img/inrecruit_cover_title@2x.png" alt="Meet Recruit" /></p>
+    <p class="tx"></p>
+    </div>
+    </div>-->
+    <div class="section">
+    <div class="topRamdom">
+<!-- クラスなどは同じもののリピートになります。 -->
+<ul>
+<script>featuredArticles();</script>
+</ul>
+    </div>
+    </div>
+<!-- /top ramdom section -->
+<div class="article_recommend">
+<!--オススメblock1-->
+<!--オススメblock2-->
+<!--オススメblock3-->
+</div>
+<div class="article_timeline clearfix">
+    <div class="mod_index_article col1-3rd  col-1">
+    <div class="pic">
+<img src="/meet_recruit/upload/it17_main_common.jpg" alt="リーグを1つにし躍進を続けるB.LEAGUE。事務局長から学ぶ、確たる戦略とリーダーシップ" />
+</div>
+<dl>
+<dt>
+<a href="/meet_recruit/2017/11/it17.html">
+    リーグを1つにし躍進を続けるB.LEAGUE。事務局長から学ぶ、確たる戦略とリー...
+</a>
+</dt>
+<dd class="datetime"><time>‘17.11.06 Mon</time></dd>
+</dl>
+    </div>
+    <div class="mod_index_article col2-3rd col-2">
+    <div class="pic">
+<img src="/meet_recruit/upload/recruit_kou.jpg" alt="IMD教授 ハワード・ユーさんのリクルート考" />
+</div>
+<dl>
+<dt>
+<a href="/meet_recruit/2017/11/recruit-kou03.html">
+    IMD教授 ハワード・ユーさんのリクルート考
+</a>
+</dt>
+<dd class="datetime"><time>‘17.11.02 Thu</time></dd>
+</dl>
+    </div>
+    <div class="mod_index_article col2-3rd  col-3">
+    <div class="pic">
+<img src="/meet_recruit/upload/og18_1_main_common.jpg" alt="【前編】課題解決を生む「自然なつながり」studio-L山崎亮×リクルート麻生要一" />
+</div>
+<dl>
+<dt>
+<a href="/meet_recruit/2017/09/og18-1.html">
+    【前編】課題解決を生む「自然なつながり」studio-L山崎亮×リクルート麻生要...
+</a>
+</dt>
+<dd class="datetime"><time>‘17.09.25 Mon</time></dd>
+</dl>
+    </div>
+    <div class="mod_index_article col1-3rd  col-4">
+    <div class="pic">
+<img src="/meet_recruit/upload/og17-2_main_common.jpg" alt="【後編】新しい教育は社会に何をもたらすのか？21世紀型教育機構・石川一郎×山口文洋" />
+</div>
+<dl>
+<dt>
+<a href="/meet_recruit/2017/09/og17-2.html">
+    【後編】新しい教育は社会に何をもたらすのか？21世紀型教育機構・石川一郎×山口文...
+</a>
+</dt>
+<dd class="datetime"><time>‘17.09.14 Thu</time></dd>
+</dl>
+    </div>
+    <div class="mod_index_article col1-3rd  col-1">
+    <div class="pic">
+<img src="/meet_recruit/upload/ws02_main_common.jpg" alt="CFO篠田真貴子氏が語る、社員の"動機"を起点にする糸井事務所のしくみ" />
+</div>
+<dl>
+<dt>
+<a href="/meet_recruit/2017/09/ws02.html">
+    CFO篠田真貴子氏が語る、社員の"動機"を起点にする糸井事務所のしくみ
+</a>
+</dt>
+<dd class="datetime"><time>‘17.09.11 Mon</time></dd>
+</dl>
+    </div>
+    <div class="mod_index_article col2-3rd col-2">
+    <div class="pic">
+<img src="/meet_recruit/upload/it16_main_common.jpg" alt=""日本のエジソン"島精機製作所代表取締役会長・島正博氏が語る、ものづくりへの情熱" />
+</div>
+<dl>
+<dt>
+<a href="/meet_recruit/2017/08/it16.html">
+    "日本のエジソン"島精機製作所代表取締役会長・島正博氏が語る、ものづくりへの情熱
+</a>
+</dt>
+<dd class="datetime"><time>‘17.08.31 Thu</time></dd>
+</dl>
+    </div>
+    <div class="mod_index_article col2-3rd  col-3">
+    <div class="pic">
+<img src="/meet_recruit/upload/gl27_main_common.jpg" alt="ジンもスタッフもブレンドして良さを引き出す。みんなで挑む日本初のクラフトジンづくり" />
+</div>
+<dl>
+<dt>
+<a href="/meet_recruit/2017/08/gl27.html">
+    ジンもスタッフもブレンドして良さを引き出す。みんなで挑む日本初のクラフトジンづく...
+</a>
+</dt>
+<dd class="datetime"><time>‘17.08.24 Thu</time></dd>
+</dl>
+    </div>
+    <div class="mod_index_article col1-3rd  col-4">
+    <div class="pic">
+<img src="/meet_recruit/upload/og17_1_main_common.jpg" alt="【前編】新しい教育は社会に何をもたらすか？ 21世紀型教育機構・石川一郎×山口文洋" />
+</div>
+<dl>
+<dt>
+<a href="/meet_recruit/2017/08/og17-1.html">
+    【前編】新しい教育は社会に何をもたらすか？ 21世紀型教育機構・石川一郎×山口文...
+</a>
+</dt>
+<dd class="datetime"><time>‘17.08.21 Mon</time></dd>
+</dl>
+    </div>
+</div>
+<div class="top_more_meet"><a href="/meet_recruit/">もっと見る</a></div>
+<!-- 20170726 -->
+<div class="top_trend">
+<div class="section">
+<h3>トレンドピックアップ</h3>
+<ul>
+<script>tpickup();</script>
+</ul>
+</div><!--/section-->
+</div><!--/top_trend-->
+<!-- 20170425 03 -->
+<div class="ir_top07">
+<div class="section">
+<h3 class="title">動画で知るリクルート</h3>
+<ul>
+<li class="heightLine-group1">
+<p class="pctbOnly popMovieThumb"><a href="/company/about/involvement/uniqueness/#unq3">
+<img class="imgThumb01" src="/movie/ir_top_bnr01.jpg" alt="リクルートのビジネスモデル" />
+<span class="playIco3"></span>
+</a></p>
+<p class="spOnly popMovieThumb"><a href="/company/about/involvement/uniqueness/#unq3">
+<img class="imgThumb01" src="/movie/ir_top_bnr01.jpg" alt="リクルートのビジネスモデル" />
+<span class="playIco3"></span>
+</a></p>
+<p class="pctbOnly"><a href="/company/about/involvement/uniqueness/#unq3">リクルートのビジネスモデル</a></p>
+<p class="spOnly"><a href="/company/about/involvement/uniqueness/#unq3">リクルートのビジネスモデル</a></p>
+</li>
+<li class="heightLine-group1">
+<p class="pctbOnly popMovieThumb"><a href="/company/about/involvement/uniqueness/#unq2">
+<img class="imgThumb01" src="/movie/ir_top_bnr02.jpg" alt="リクルートの企業文化" />
+<span class="playIco3"></span>
+</a></p>
+<p class="spOnly popMovieThumb"><a href="/company/about/involvement/uniqueness/#unq2">
+<img class="imgThumb01" src="/movie/ir_top_bnr02.jpg" alt="リクルートの企業文化" />
+<span class="playIco3"></span>
+</a></p>
+<p class="pctbOnly"><a href="/company/about/involvement/uniqueness/#unq2">リクルートの企業文化</a></p>
+<p class="spOnly"><a href="/company/about/involvement/uniqueness/#unq2">リクルートの企業文化</a></p>
+</li>
+<li class="heightLine-group1">
+<p class="pctbOnly popMovieThumb"><a href="http://www.irwebcasting.com/20171115/1/index.html" target="_blank">
+<img class="imgThumb01" src="/movie/ir_top_mov_thumb01.jpg" alt="2018年3月期 第2四半期決算説明会動画" />
+<span class="playIco3"></span>
+</a></p>
+<p class="spOnly popMovieThumb"><a href="http://www.irwebcasting.com/20171115/1/index.html" target="_blank">
+<img class="imgThumb01" src="/movie/ir_top_mov_thumb01.jpg" alt="2018年3月期 第2四半期決算説明会動画" />
+<span class="playIco3"></span>
+</a></p>
+<p class="pctbOnly"><a href="http://www.irwebcasting.com/20171115/1/index.html" target="_blank" class="mod_link_10">2018年3月期 第2四半期決算説明会動画</a></p>
+<p class="spOnly"><a href="http://www.irwebcasting.com/20171115/1/index.html" target="_blank" class="mod_link_10">2018年3月期 第2四半期決算説明会動画</a></p>
+</li>
+<li class="heightLine-group1">
+<p class="pctbOnly popMovieThumb"><a href="http://www.irwebcasting.com/20171115/6/aac6b8182f/mov/main/index.html" target="_blank">
+<img class="imgThumb01" src="/movie/upload/ir_top_mov_thumb04_jp.jpg" alt="メディア＆ソリューション事業のご紹介" />
+<span class="playIco3"></span>
+</a></p>
+<p class="spOnly popMovieThumb"><a href="http://www.irwebcasting.com/20171115/6/aac6b8182f/mov/main/index.html" target="_blank">
+<img class="imgThumb01" src="/movie/upload/ir_top_mov_thumb04_jp.jpg" alt="メディア＆ソリューション事業のご紹介" />
+<span class="playIco3"></span>
+</a></p>
+<p class="pctbOnly"><a href="http://www.irwebcasting.com/20171115/6/aac6b8182f/mov/main/index.html" target="_blank" class="mod_link_10">メディア＆ソリューション事業のご紹介</a></p>
+<p class="spOnly"><a href="http://www.irwebcasting.com/20171115/6/aac6b8182f/mov/main/index.html" target="_blank" class="mod_link_10">メディア＆ソリューション事業のご紹介</a></p>
+</li>
+</ul>
+</div><!--/section-->
+</div><!--/ir_top07-->
+<!-- 20170425 03 end -->
+    </div><!--/col_index_01-->
+    <div class="col_index_02">
+<div class="col_index_aside01">
+<!--特殊バナー-->
+<div class="mBottom20 mod_index_bnr"><a href="/news_data/release/2017/0530_17406.html"><img src="/img/L08_banner_tokyo2020.jpg" /></a></div>
+   <div class="mod_index_news">
+<h2>グループニュース</h2>
+<dl>
+<dt>2017年11月22日</dt>
+<dd>
+    <a href="https://www.recruit-lifestyle.co.jp/news/gourmet/nw25216_20171122" target="_blank" class="mod_link_01">2017年をグルメで振り返り！全国の男女約2,000人に聞きました！ 2017年の流行グルメ1位は『スーパーフード』SNS映えはもちろん、健康志向や一点特化メニューに注目集中！</a>
+</dd>
+<dt>2017年11月22日</dt>
+<dd>
+    <a href="https://www.recruitcareer.co.jp/news/pressrelease/2017/171122-01/" target="_blank" class="mod_link_01">転職決定者に聞く入社の決め手とは？　「年収」や「会社の規模・知名度」よりも「キャリアや成長への期待」を重視する傾向に　ー「リクルートエージェント」登録者アンケート集計結果ー</a>
+</dd>
+<dt>2017年11月20日</dt>
+<dd>
+    <a href="http://www.recruitjobs.co.jp/press/pr20171120_945.html" target="_blank" class="mod_link_01">2017年10月度　派遣スタッフ募集時平均時給調査</a>
+</dd>
+<dt>2017年11月17日</dt>
+<dd>
+    <a href="http://www.recruit-sumai.co.jp/press/2017/11/suumotukigime.html" target="_blank" class="mod_link_01">SUUMO と akippa がサービス連携開始　管理会社保有の遊休駐車場を有効活用</a>
+</dd>
+<dt>2017年11月16日</dt>
+<dd>
+    <a href="https://www.recruit-lifestyle.co.jp/news/gourmet/nw25170_20171116" target="_blank" class="mod_link_01">低糖質メニューへの関心を調査</a>
+</dd>
+</dl>
+<p class="mod_button_12c"><a href="/news_data/">すべてを見る</a></p>
+</div>
+   <div class="mod_index_news">
+<h2>お知らせ</h2>
+<dl>
+<dt>2017年09月27日</dt>
+<dd>
+<a href="/news_data/notification/20170927_17667.html">当社株式に関するお知らせ</a>
+</dd>
+<dt>2017年05月09日</dt>
+<dd>
+<a href="/news_data/notification/20170509_17354.html"><a href="http://www.staffservice.co.jp/nt-files/nr_170509.html" target="_blank">ご登録者様の個人情報等の流出に関するお詫びとご報告（株式会社スタッフサービス・ホールディングス／株式会社スタッフサービス）</a></a>
+</dd>
+<dt>2017年03月01日</dt>
+<dd>
+<a href="/news_data/notification/20170301_17083.html">株式会社Media Shakers運営『R25』および関連サービス等終了のお知らせ</a>
+</dd>
+<dt>2016年12月09日</dt>
+<dd>
+<a href="/news_data/notification/20161209_17081.html">一部サービスの非公開化のお知らせ</a>
+</dd>
+<dt>2016年04月18日</dt>
+<dd>
+<a href="/news_data/notification/20160418_16641.html">平成28年熊本地震に対する支援について（04月19日追記）</a>
+</dd>
+</dl>
+<p class="mod_button_12c"><a href="/news_data/#item02">すべてを見る</a></p>
+</div>
+</div><!-- /.col_index_aside01 -->
+<div class="col_index_aside03">
+<div class="mod_index_bnr"><a href="http://r.recruit-jinji.jp/" target="_blank"><img src="/img/06257a31da142693a543923a62c71d4e.jpg"  alt="RECRUIT 2018年度新卒Web採用サイト"></a></div>
+<div class="mod_index_bnr"><a href="/news_data/library/"><img src="/img/banner_research_1.jpg"  alt="調査・データ"></a></div>
+<div class="mod_index_bnr"><a href="/company/csr/"><img src="/img/banner_csr.jpg"  alt="リクルートのCSR"></a></div>
+<div class="mod_index_bnr"><a href="/company/about/involvement/uniqueness/"><img src="/img/brand_top.jpg"  alt="映像でみるリクルート"></a></div>
+</div>
+<div class="col_index_aside02 mBottom30">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.4&appId=176376972424421";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-page" data-href="https://www.facebook.com/recruit.jp" data-width="225" data-height="440" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/recruit.jp"><a href="https://www.facebook.com/recruit.jp">リクルート</a></blockquote></div></div>
+</div><!-- /.col_index_aside02 -->
+    </div><!--/col_index_02-->
+</div><!--/section-->
+</div><!--/content-->
+<div id="footerSocial">
+<div class="section2">
+<p class="footerSocialBnrTit">PICK UP</p>
+<div class="flexsliderFooter flexClass">
+<div class="footerSocialBnr">
+<span><a href="/company/csr/contribution/beadiver/"><img src="/img/banner_be_a_diver.jpg"></a><a href="/company/csr/contribution/iction/"><img src="/img/banner_iction.jpg"></a></span>
+<span><a href="/company/about/structure.html"><img src="/img/banner_kachi.jpg"></a><a href="/company/about/report_download.html"><img src="/img/banner_report.jpg"></a></span>
+<span><a href="/company/csr/contribution/workstyle/"><img src="/img/banner_work.jpg"></a><a href="/company/csr/movie2016/"><img src="/img/Sustainability_Movie.jpg"></a></span>
+</div>
+</div>
+</div>
+<div class="section">
+<p><img src="/common/img/footer_social.png" alt="Join us on Recruit Social"></p>
+<ul>
+<li><a href="https://www.facebook.com/recruit.jp" target="_blnak"><img src="/common/img/footer_social_fb2.png" alt="facebook"></a></li>
+<li><a href="https://twitter.com/Recruit_PR" target="_blank"><img src="/common/img/footer_social_tw2.png" alt="twitter"></a></li>
+<li><a href="https://www.youtube.com/user/recruitholdings" target="_blank"><img src="/common/img/footer_social_yt2.png" alt="youtube"></a></li>
+<li class="sp"><a href="http://recruitholdings.tumblr.com/" rel="publisher" target="_blank"><img src="/common/img/footer_social_tumbler2.png" alt="Tumbler" ></a></li>
+<li class="sp"><a href="https://instagram.com/recruit_holdings/" rel="publisher" target="_blank"><img src="/common/img/footer_social_instagram2.png" alt="Instagram" /></a></li>
+<li class="sp"><a href="https://jp.pinterest.com/RecruitHoldings/" rel="publisher" target="_blank"><img src="/common/img/footer_social_pinterest2.png" alt="Pinterest" /></a></li>
+</ul>
+</div>
+</div>
+<div id="footer">
+<div class="section">
+<!--for sp_menu-->
+<div class="clearfix">
+    <div class="btn"><a href="#header" class="fixHeightChildTop">↑</a></div>
+    <div id="btnSP"><a href="#header" class="spBackToTop">↑</a></div>
+<div class="sp_globalNav">
+<ul>
+<li class="service"><a href="/service/">サービス</a></li>
+<li class="press"><a href="/news_data/">プレスルーム</a></li>
+<li class="company"><a href="/company/">企業情報</a></li>
+<li class="ir"><a href="/ir/">投資家情報</a></li>
+<li class="employment"><a href="/employment/">採用情報</a></li>
+<li class="mirai"><a href="/meet_recruit/">Meet Recruit</a></li>
+</ul><!--/sp_globalNav-->
+</div>
+</div>
+        <div class="link_holdings">
+    	<div class="link_holdings_col01">
+        	<h3>リクルートホールディングス</h3>
+        </div>
+    	<div class="link_holdings_col02">
+        <ul>
+            <li class="holdings_link01"><a href="http://www.recruitcareer.co.jp/" target="_blank">リクルートキャリア</a></li>
+            <li class="holdings_link02"><a href="http://www.recruitjobs.co.jp/" target="_blank">リクルートジョブズ</a></li>
+            <li class="holdings_link01"><a href="http://www.r-staffing.co.jp/" target="_blank">リクルートスタッフィング</a></li>
+            <li class="holdings_link02"><a href="http://www.staffservice.co.jp/" target="_blank">スタッフサービス・ホールディングス</a></li>
+            <li class="holdings_link01"><a href="http://www.recruit-sumai.co.jp/" target="_blank">リクルート住まいカンパニー</a></li>
+            <li class="holdings_link02"><a href="http://www.recruit-mp.co.jp/" target="_blank">リクルートマーケティングパートナーズ</a></li>
+            <li class="holdings_link01"><a href="http://www.recruit-lifestyle.co.jp/" target="_blank">リクルートライフスタイル</a></li>
+            <li class="holdings_link02"><a href="http://recruit-admin.jp/company/" target="_blank">リクルートアドミニストレーション</a></li>
+            <li class="holdings_link01"><a href="http://www.rco.recruit.co.jp/" target="_blank">リクルートコミュニケーションズ</a></li>
+            <li class="holdings_link02"><a href="http://recruit-tech.co.jp/" target="_blank">リクルートテクノロジーズ</a></li>
+        </ul>
+        </div>
+    </div>
+<div class="link_01">
+<ul>
+<li><a href="/ir/library/fr_public/index.html" class="line">電子公告</a></li>
+<li><a href="/sitemap.html" class="line">サイトマップ</a></li>
+<li><a href="/termsofuse.html" class="line">免責事項・ご利用条件</a></li>
+<li><a href="/privacypolicy.html" class="line">プライバシーポリシー</a></li>
+<li><a href="/acse.html" class="line">アクセシビリティの対応について</a></li>
+</ul>
+</div>
+<div class="copyright">
+<p><small>&copy; Recruit Holdings Co., Ltd.</small></p>
+</div>
+</div>
+</div><!--/footer-->
+<script type="text/javascript" src="/common/js/page-top.js"></script>
+<script type="text/javascript" src="/common/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/common/js/changeFontSize.js"></script>
+<script type="text/javascript" src="/common/js/jquery.cssAnimate.min-1.1.8.js"></script>
+<script type="text/javascript" src="/common/js/base.js"></script>
+<script type="text/javascript" src="/common/js/tabchange.js"></script>
+<script type="text/javascript" src="/common/js/heightLine.js"></script>
+<script type="text/javascript" src="/news_data/js/old_content.js"></script>
+<script type="text/javascript" src="/common/js/media.js"></script>
+<script type="text/javascript" src="/common/js/jquery.smoothScroll.js"></script>
+<!--トップページ-->
+<script src="/js/jquery-textresize-event.js" type="text/javascript" ></script>
+<script src="/js/jquery.biggerlink.js" type="text/javascript" ></script>
+<script src="/js/rjptop.js" type="text/javascript" ></script>
+<script src="/common/js/jquery.event.move.js" ></script>
+<script src="/common/js/jquery.event.swipe.js" ></script>
+<script src="/common/js/unslider.js" ></script>
+<script src="/common/js/jquery.flexslider_destroymod.js"></script>
+<!--
+<script src="/common/js/jquery.cycle.js" type="text/javascript"></script>
+<script src="/common/js/easing.js" type="text/javascript" ></script>
+-->
+<!--[if IE 6.0]>
+<script type="text/javascript">
+document.execCommand("BackgroundImageCache", false, true);
+</script>
+<![endif]-->
+<!-- SiteCatalyst-->
+<script language="JavaScript" type="text/javascript" src="/common/js/s_code.js"></script>
+<script type="text/javascript"><!--
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+</body>
+</html>
