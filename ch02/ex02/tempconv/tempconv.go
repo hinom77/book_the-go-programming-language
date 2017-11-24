@@ -4,6 +4,10 @@ import "fmt"
 
 type Celsius float64
 type Fahrenheit float64
+type Feet float64
+type Meter float64
+type Pound float64
+type Kilogram float64
 
 const (
 	AbsoluteZeroC Celsius = -273.15

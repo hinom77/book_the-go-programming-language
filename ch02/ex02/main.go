@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
-	"ch02/ex02/tempconv"
+	"./tempconv"
 )
 
 func main() {
